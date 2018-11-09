@@ -1,0 +1,15 @@
+{
+  "name": "choicehotelbot",
+  "version": "1.0.0",
+  "description": "Bot",
+  "main": "2.js",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "hi"
+  },
+  "author": "",
+  "license": "ISC"
+}
